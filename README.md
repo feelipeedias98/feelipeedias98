@@ -9,7 +9,6 @@
   </a>
 </div>
 
-###
 
 <h1 align="center">Seja bem-vindo(a) ao meu GitHub</h1>
 
