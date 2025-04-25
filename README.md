@@ -56,12 +56,6 @@
 
 ###
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/feelipeedias98/feelipeedias98/main/snake.svg" alt="Snake animation" />
-</p>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/feelipeedias98/count.svg?"  />
 </div>
