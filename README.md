@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Meu nome è Felipe<br>🔭 Atualmente, estou desenvolvendo projetos como estudante de desenvolvimento backend, porém recentemente comecei a estudar frontend!<br>📚 Estudo backend focando na linguiagem Python, mas recentemente comecei a estudar frontend, explorando principalmente React Native<br>⚡ No meu tempo livre, gosto de explorar novas tecnologias, criar projetos pessoais e aprender coisas novas que possam me tornar um desenvolvedor mais completo</p>
+<p align="left">🔭 Estou cursando Ciência da Computação e cursando o bootcamp da OneBitCode de Python!<br>📚 Estudo backend focando na linguiagem Python, mas recentemente comecei a estudar Programação Web, explorando principalmente JavaScript(React Native), HTML e CSS!<br>⚡ No meu tempo livre, gosto de explorar novas tecnologias, criar projetos pessoais e aprender coisas novas que possam me tornar um desenvolvedor mais completo</p>
 
 ###
 
